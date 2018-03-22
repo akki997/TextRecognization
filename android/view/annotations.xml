@@ -1,0 +1,5 @@
+<root>
+    <item name='android.view.SurfaceView android.view.SurfaceHolder getHolder()'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
